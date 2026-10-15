@@ -1,0 +1,6 @@
+{
+  "name": "CatatUang Keluarga",
+  "description": "Aplikasi pencatatan keuangan keluarga kolaboratif dengan modal interaktif, diagram cerdas, dan kontrol anggaran multi-anggota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
